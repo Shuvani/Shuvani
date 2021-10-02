@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on frontend development
-- :mailbox: How to reach me: [Telegram] (https://t.me/AnutkaGorb)
+- :mailbox: How to reach me: [Telegram](https://t.me/AnutkaGorb)
 
 ## Technologies stack
 ### Backend:
